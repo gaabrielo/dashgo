@@ -6,7 +6,7 @@ export function SearchBox() {
   const searchInputRef = useRef<HTMLInputElement>(null);
 
   function handleSearch() {
-    console.log(searchInputRef.current);
+    console.log(searchInputRef.current.value);
   }
 
   return (
