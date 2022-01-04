@@ -15,6 +15,6 @@ Now replicate the following steps to start the project:
 $ yarn
 
 # Start the project
-$ yarn start
+$ yarn dev
 ```
 Now access localhost:3000 from your browser.
